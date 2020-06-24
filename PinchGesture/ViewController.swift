@@ -28,7 +28,5 @@ class ViewController: UIViewController {
             txtPinch.font = txtPinch.font.withSize(initialFontSize * pinch.scale)
         }
     }
-
-
 }
 
